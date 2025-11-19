@@ -15,3 +15,4 @@ spring:
   jwt:
     secret: "yXencWpmqGXQyZ538gGsAwhj8oxhhjK2"
     refresh_secret: "yXencWpmqGXQyZ538gGsAwhj8oxhhjK2123"
+  dev: true
