@@ -13,5 +13,5 @@ spring:
       ddl-auto: update
     show-sql: true
   jwt:
-    secret: ${SPRING_JWT_SECRET}
-    refresh_secret: ${SPRING_JWT_REFRESH_SECRET}
+    secret: "yXencWpmqGXQyZ538gGsAwhj8oxhhjK2"
+    refresh_secret: "yXencWpmqGXQyZ538gGsAwhj8oxhhjK2123"

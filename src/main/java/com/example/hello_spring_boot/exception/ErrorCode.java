@@ -12,7 +12,7 @@ public enum ErrorCode {
     USER_EXISTED(1002, "User existed"),
     RECORD_EXISTED(1002, "Record existed"),
     UNKNOW_ERROR(9999, "Unregister erorr"),
-    INVALID_PASSWORD(1003, "Invalid password"),
+    INVALID_PASSWORD(1003, "Password must be between 8 and 100 characters"),
     INVALID_USERNAME(1004, "Invalid username"),
     USER_NOTFOUND(1005, "User Not Found"),
     UNAUTHORIZED(1006, "You don't have permission", HttpStatus.FORBIDDEN),
